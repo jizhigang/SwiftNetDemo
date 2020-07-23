@@ -1,0 +1,6 @@
+framework module Pods_SwiftNetDemo {
+  umbrella header "Pods-SwiftNetDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
